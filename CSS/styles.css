@@ -1,0 +1,105 @@
+body {}
+
+#title {
+  background-color: #ffc1f3;
+}
+
+.quote {
+  color: #ffc1f3;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 50px;
+  color: white;
+  position: relative;
+  top: 100px;
+  left: 25px;
+}
+
+a {
+  marign: auto;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 20px 0 20px;
+}
+
+a:hover {
+  color: #f9f7d9;
+  text-decoration: none;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: 200px;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+label {
+  font-family: 'Pinyon Script', cursive;
+  color: white;
+}
+
+.VideoContainer {
+  text-align: center;
+  margin-top: 10%;
+}
+
+/* Contact */
+.contact {
+  background-color: #ffc1f3;
+}
+
+.contact-page {
+  text-align: center;
+}
+
+.info {
+  color: white;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+  color: #ffe78f;
+}
+
+.navbar-brand {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/* Films */
+.films {
+  background-color: #ffc1f3;
+}
+
+/* Testimonials */
+.testimonials {
+  background-color: #ffc1f3;
+}
+
+/* Faq */
+.faq {
+    background-color: #ffc1f3;
+}
